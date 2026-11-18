@@ -1,0 +1,14 @@
+# Local source-media archive and generated review files
+/Web Assets/
+/Asset Review/
+/_unused-site-assets/
+
+# Local secrets, environment files, and dependencies
+.env
+.env.*
+!.env.example
+node_modules/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
